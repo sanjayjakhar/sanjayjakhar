@@ -12,7 +12,7 @@
 
 I architect and ship high-performance web systems, distributed backends, and AI-native applications. Experienced in leading engineering teams, building enterprise platforms with 5-tier RBAC and sub-100ms APIs, and orchestrating autonomous LLM pipelines.
 
-📍 **Ranchi & Rajasthan, India**
+📍 **Ranchi, Jharkhand | Sikar, Rajasthan, India**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-jakhar/">
