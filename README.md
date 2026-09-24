@@ -142,10 +142,17 @@ I architect and ship high-performance web systems, distributed backends, and AI-
 
 ---
 
-### 💭 Daily Engineering Quote
+### 💡 Engineering Philosophy & Motto
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+> ### *"Talk is cheap. Show me the code."*
+> **— Linus Torvalds**
+
+<p>
+  <i>"First, solve the problem. Then, write clean code and relentlessly ship systems that scale."</i>
+</p>
+
 </div>
 
 <br/>
